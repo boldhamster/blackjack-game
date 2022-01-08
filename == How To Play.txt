@@ -1,0 +1,5 @@
+To play the console version of Blackjack . . .
+
+- run gitbash or command prompt and navigate to the folder containing the game files
+- to compile the game files, type: javac *.java 
+- then to play the game, type: java Play
